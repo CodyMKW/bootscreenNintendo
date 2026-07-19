@@ -29,6 +29,7 @@ Old School BIOS Generator for MenuHax Nintendo 3DS, Wii U, and Switch! [Folk of 
 **Version 6.2**
 
 * [CodyMKW](https://github.com/CodyMKW) added Wii U support
+* Fixed folk me on github banner image
 
 **Version 6.1**
 
